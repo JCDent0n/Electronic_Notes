@@ -44,7 +44,7 @@ Bazı durumlarda gönderilen veya alınan sinyallerin büyüklükleri çok düş
 ![image](https://github.com/JCDent0n/Electronic_Notes/assets/73293115/bcbe78a3-8ad8-4357-9041-a26086afdb98)
 
 #### Phase-Locked Loops(PLL):
-PLL'ler içerisinde Faz dedektörü, Low Pass Filter, Voltaj Kontrollü Osilatör, Frekans Bölücü gibi parçalar barındıran bir componenttir (Yani bir çoğunda bu parçalar bulunur). Osilatör yardımı ile beraber kullanıldığı zaman ihtiyacımız olana farklı seviyelerde frekans üretimi konusunda büyük yardımcı olurlar.
+PLL'ler içerisinde Faz dedektörü, Low Pass Filter, Voltaj Kontrollü Osilatör, Frekans Bölücü gibi parçalar barındıran bir componenttir (Yani bir çoğunda bu parçalar bulunur). Osilatör yardımı ile beraber kullanıldığı zaman ihtiyacımız olan farklı seviyelerde frekans üretimi konusunda büyük yardımcı olurlar.
 
 ![image](https://github.com/JCDent0n/Electronic_Notes/assets/73293115/4bb0bba3-acd6-4ec5-aaff-6f7fd9ffa7e1)
 
