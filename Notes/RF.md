@@ -41,11 +41,13 @@ Bazı durumlarda gönderilen veya alınan sinyallerin büyüklükleri çok düş
 #### RF Mixers:
 İki adet input alırlar ve ouptupu kendi aralarında çarpma işlemi yaparak verirler. Bir bakıma inputları translate etmiş olurlar. Mixerlar sinyalleri alçak veya yüksek seviyelere çekebilirler yani değiştirebilirler.
 
-![[Pasted image 20240221164000.png]]
+![image](https://github.com/JCDent0n/Electronic_Notes/assets/73293115/bcbe78a3-8ad8-4357-9041-a26086afdb98)
+
 #### Phase-Locked Loops(PLL):
 PLL'ler içerisinde Faz dedektörü, Low Pass Filter, Voltaj Kontrollü Osilatör, Frekans Bölücü gibi parçalar barındıran bir componenttir (Yani bir çoğunda bu parçalar bulunur). Osilatör yardımı ile beraber kullanıldığı zaman ihtiyacımız olana farklı seviyelerde frekans üretimi konusunda büyük yardımcı olurlar.
 
-![[Pasted image 20240221163953.png]]
+![image](https://github.com/JCDent0n/Electronic_Notes/assets/73293115/4bb0bba3-acd6-4ec5-aaff-6f7fd9ffa7e1)
+
 
 #### Data Converters:
 Bunlara basit örnek ADC'ler veya DAC'lerdir.
@@ -61,4 +63,4 @@ Birden Fazla frekans tipi vardır bunların devre tasarımında kullanılanlarda
 - UHF(Ultra High Frequency)
 - SHF(Super High Frequency)
 
-![[Pasted image 20240221164529.png]]
+![image](https://github.com/JCDent0n/Electronic_Notes/assets/73293115/b741c644-a8dc-4e2c-8bd1-42308330b9fe)
