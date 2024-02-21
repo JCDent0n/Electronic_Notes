@@ -64,3 +64,5 @@ Birden Fazla frekans tipi vardır bunların devre tasarımında kullanılanlarda
 - SHF(Super High Frequency)
 
 ![image](https://github.com/JCDent0n/Electronic_Notes/assets/73293115/b741c644-a8dc-4e2c-8bd1-42308330b9fe)
+
+İlerleyen Günlerde ekleme yapılacaktır.
